@@ -13,4 +13,4 @@ das sementes na terra, o desenvolvimento e a colheita. O movimento das sementes
 pelo tabuleiro era associado ao movimento celeste das estrelas, e o próprio tabuleiro
 simbolizava o “Arco Sagrado”.
 
-[![](https://github.com/Vinicius-Fiorio/Mancala/blob/main/botao.png?raw=true)](https://colab.research.google.com/drive/12Q2vYZkbi7dSUcqpq7vtkIc20zxLeePL)
+[![](https://github.com/Vinicius-Fiorio/Mancala/blob/main/botao.png?raw=true)](https://colab.research.google.com/drive/1ls69ex6JSlEYXdP2ejMGT5K1N5DpNGwU)
